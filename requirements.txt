@@ -1,4 +1,4 @@
-dash
+dash== 2.6.0
 pandas
 plotly
 gunicorn==19.7.1
